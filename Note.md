@@ -1,0 +1,8 @@
+- convert letter grade to number
+- add button for the semester
+-
+- validation lal input
+  -check if the user added number inside the credits 0 4
+  -make sure everything is filled out
+  -clean inout text
+  -reptition bl name
